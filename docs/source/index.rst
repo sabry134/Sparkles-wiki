@@ -19,7 +19,7 @@ Contents
 .. toctree::
 
    usage
-   api
    help
    commands
    info
+   api

@@ -22,3 +22,4 @@ Contents
    api
    help
    commands
+   info

@@ -1,7 +1,7 @@
 Commands
 ========
 
-Commands page
+Commands page about the most important commands algorithms.
 
 .. autosummary::
    :toctree: generated

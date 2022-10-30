@@ -1,7 +1,7 @@
-Info
-====
+Technical Information
+=====================
 
-Info
+Informations about the debug mode
 
 .. autosummary::
    :toctree: generated

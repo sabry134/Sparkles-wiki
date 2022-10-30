@@ -29,7 +29,7 @@ Lyrics
 
    API: https://some-random-api.ml/lyrics?
 
-**Algorithm:** The lyrics command first of all parses the argument and is sent to the API as an argument. The API makes the request with the specified argument and gets the music lyrics. Therefore the music lyrics are parsed and sent back to the bot. Once the bot receives the lyrics, the bot sends a reply to the user with the lyrics.
+**Algorithm: The lyrics command first of all parses the argument and is sent to the API as an argument. The API makes the request with the specified argument and gets the music lyrics. Therefore the music lyrics are parsed and sent back to the bot. Once the bot receives the lyrics, the bot sends a reply to the user with the lyrics.**
 
 Online
 ------
@@ -38,7 +38,7 @@ Online
 
    API: https://balancer.eu.tankionline.com/balancer
 
-**Algorithm:** The API is divided into 10 sections representing the servers. The command parses the number of online players on each server and makes a calculation to add them up to retrieve the total number of online players. 
+**Algorithm: The API is divided into 10 sections representing the servers. The command parses the number of online players on each server and makes a calculation to add them up to retrieve the total number of online players.**
 
 Start
 -----
@@ -47,7 +47,7 @@ Start
 
    API: http://api.brainshop.ai/get?bid=157572&key=3IwX8FUcY1MBGlQV&uid="1
 
-**Algorithm:** The API receives an argument given by the player. The argument is represented by any kind of text the user might write. This argument is added at the end of the API and is parsed. What's parsed is the reply of the bot. Once it is done, the bot retrieves the answer and sends it to the user.
+**Algorithm: The API receives an argument given by the player. The argument is represented by any kind of text the user might write. This argument is added at the end of the API and is parsed. What's parsed is the reply of the bot. Once it is done, the bot retrieves the answer and sends it to the user.**
 
 Webstatus
 ---------
@@ -60,7 +60,7 @@ Webstatus
 
    API: The link given as an argument.
 
-**Algorithm:** The bot sends a request to the specified website. The website is represented by the user's argument. If the request result is successful, the website will be shown as online, otherwise it will be offline.
+**Algorithm: The bot sends a request to the specified website. The website is represented by the user's argument. If the request result is successful, the website will be shown as online, otherwise it will be offline.**
 
 
 .. autosummary::

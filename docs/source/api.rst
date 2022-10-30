@@ -52,6 +52,10 @@ Start
 Webstatus
 ---------
 
+.. note::
+
+   This command is under maintenance.
+
 !webstatus - Gives you the status of the specified website. The url must start with http or https. More informations are available here::
 
    API: The link given as an argument.

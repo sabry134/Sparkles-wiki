@@ -1,5 +1,5 @@
-Technical Information
-=====================
+Technical Informations
+======================
 
 Informations about the debug mode and the custom code to add.
 

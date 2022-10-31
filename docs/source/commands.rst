@@ -19,7 +19,7 @@ Fun Module
 Economy Module
 --------------
 
-** The economy module is a list of command that uses variables that is used for the number of crystals, containers, UT containers and skin containers. When a purchase is made, it first checks if the user has more or the same number as the price set. If it is not the case, an error message is displayed, else the purchase is made and the price is removed from the user's economy, and his item is added.**
+**The economy module is a list of command that uses variables that is used for the number of crystals, containers, UT containers and skin containers. When a purchase is made, it first checks if the user has more or the same number as the price set. If it is not the case, an error message is displayed, else the purchase is made and the price is removed from the user's economy, and his item is added.**
 
 .. autosummary::
    :toctree: generated

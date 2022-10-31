@@ -1,7 +1,11 @@
 Commands
 ========
 
-Commands page about the most important commands algorithms.
+Rps
+Giveaway
+Timeout
+Profile
+Purchase
 
 .. autosummary::
    :toctree: generated

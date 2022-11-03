@@ -14,6 +14,6 @@ Contents
 
 .. toctree::
 
-   api
    commands
+   api
    info
